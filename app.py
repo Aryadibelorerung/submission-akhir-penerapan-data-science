@@ -1,5 +1,7 @@
 import streamlit as st
 import pandas as pd
+import os
+os.system('pip install joblib')
 import joblib
 
 # Configure Streamlit app
